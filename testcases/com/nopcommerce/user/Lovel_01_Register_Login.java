@@ -32,6 +32,7 @@ public class Lovel_01_Register_Login {
 	@Test
 	public void TC_01_ValidateCurrentUrl() {
 		driver.get("https://www.nopcommerce.com/en");
+		//comment
 	}
 
 	@AfterClass
